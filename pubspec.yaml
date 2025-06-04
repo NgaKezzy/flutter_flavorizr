@@ -33,6 +33,7 @@ dependencies:
   cupertino_icons: ^1.0.8
   flutter_flavorizr: ^2.4.1
   dio: ^5.4.0 # Thêm dio
+  cupertino_calendar_picker: ^2.2.5
 
 dev_dependencies:
   flutter_test:
